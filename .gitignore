@@ -1,0 +1,17 @@
+.dart_tool/
+build/
+build - Copy/
+.idea/
+*.iml
+.flutter-plugins
+.flutter-plugins-dependencies
+android/.gradle/
+android/local.properties
+
+* - Copy/
+
+* - Copy/
+
+* - Copy/
+
+* - Copy/
