@@ -1,0 +1,23 @@
+# Flutter / Dart (fisiere generate, NU se urca pe git)
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# IDE
+.idea/
+*.iml
+
+# Android
+android/.gradle/
+android/local.properties
+android/app/debug
+android/app/profile
+android/app/release
+
+# Copii facute manual
+* - Copy/
+* - Copy.*
